@@ -1,0 +1,3 @@
+C:/Users/knigh/OneDrive/Робочий стіл/FirstCMakeProject/CMakeProject/build/CMakeFiles/CMakeProject.dir
+C:/Users/knigh/OneDrive/Робочий стіл/FirstCMakeProject/CMakeProject/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/knigh/OneDrive/Робочий стіл/FirstCMakeProject/CMakeProject/build/CMakeFiles/ZERO_CHECK.dir
